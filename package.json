@@ -1,0 +1,29 @@
+{
+  "name": "vc-plugin-x86",
+  "version": "1.0.1",
+  "description": "To Capture Images In telemedicine-*-app By Mr.Piao",
+  "license": "vcx86license",
+  "main": "vc.node",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vc",
+	"x86",
+	"capture images"
+  ],
+  "author": "WanLi Piao",
+  "license": "asiefhw8e8",
+    "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "vc.node",
+    "sjsvc.exe"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julyw2585/vc-plugin-x86.git"
+  },
+  "homepage": "https://github.com/julyw2585/vc-plugin-x86/blob/master/readme.md"
+}
